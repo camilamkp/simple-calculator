@@ -1,1 +1,1 @@
-# simple-calculator
+# simple-calculator just using Javascript
